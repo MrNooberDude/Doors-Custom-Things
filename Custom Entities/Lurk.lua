@@ -1,4 +1,4 @@
-local Spawner = loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Utilities/main/Doors%20Entity%20Spawner/Source.lua"))()
+local Spawner = loadstring(game:HttpGet("https://raw.githubusercontent.com/MrNooberDude/Doors-Custom-Things/main/Custom%20Entities/NoonieModifiedSpawner.lua"))()
 
 --9117118928
 --9112775175
