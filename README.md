@@ -4,6 +4,7 @@ Credits to [Vynixu](https://github.com/RegularVynixu/) for all of the base doors
 
 ## About
 So, I see you've stumbled upon this repo. This is just a bunch of goofy scripts I made for the Roblox game Doors in one simple UI. This requires an executor to use, so go search up a decent executor if you need one (anything but JJSploit should suffice)
+
 I've wanted to make scripts for doors for a while now, and so hopefully this works as an alternative to stuff like other entity spawners or something and provides a good bit of entertainment. Who knows? Maybe I could make the 47th hardcore mode script if I reseach enough.
 
 # How to Use
@@ -15,9 +16,9 @@ So how would one use this hodgepodge of random stuff? Easy. Just copy this scrip
 # FAQ (probably)
 
 ## Do I need a specific executor? (e.g. Synapse, Krnl...)
-**Short Answer:** You shouldn't worry about compatibility.
+**Short Answer:** You shouldn't worry about compatibility.  
 **Long Answer:** Unless you are using a pretty low level exploit, everything should go as planned. So stuff like Synapse X, Scriptware, KRNL, Fluxus, they all should work fine.
 
 ## Will I get banned for using this?
-**Short Answer:** If you're on an alt, you should be good.
+**Short Answer:** If you're on an alt, you should be good.  
 **Long Answer:** Maybe in multiplayer cause other people can't see the entities, but again, it honestly just depends on your executor.
