@@ -33,12 +33,12 @@ local entityTable = Spawner.createEntity({
             Image2 = "rbxassetid://13007771402", -- Image2 url
             Shake = true,
             Sound1 = {
-                10483790459, -- SoundId
+                9117118928, -- SoundId
                 { Volume = 0.5 }, -- Sound properties
             },
             Sound2 = {
-                10483837590, -- SoundId
-                { Volume = 0.5 }, -- Sound properties
+                9112775175, -- SoundId
+                { Volume = 1.5 }, -- Sound properties
             },
             Flashing = {
                 true, -- Enabled/Disabled
