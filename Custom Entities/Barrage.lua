@@ -8,7 +8,7 @@ local entityTable = Spawner.createEntity({
     Speed = 150, -- Percentage, 100 = default Rush speed
     DelayTime = 0, -- Time before starting cycles (seconds)
     HeightOffset = 0,
-    CanKill = true,
+    CanKill = false,
     KillRange = 50,
     BackwardsMovement = false,
     BreakLights = true,
