@@ -54,8 +54,6 @@ local entityTable = Spawner.createEntity({
     CustomDialog = {"Barrage is an easier version of Ambush. Use what you've learned from it!", "Make sure to pay attention to it's scream! That will give you it's location!"}, -- Custom death message
 })
 
-print(entityTable)
-
 
 -----[[  Debug -=- Advanced  ]]-----
 entityTable.Debug.OnEntitySpawned = function()
