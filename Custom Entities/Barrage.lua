@@ -53,7 +53,7 @@ local entityTable = Spawner.createEntity({
             },
         },
     },
-    CustomDialog = {"Barrage is a more difficult version of Ambush.", "Make sure to pay attention to it's scream! That will give you it's location!"}, -- Custom death message
+    CustomDialog = {"Barrage is an easier version of Ambush. Use what you've learned from it!", "Make sure to pay attention to it's scream! That will give you it's location!"}, -- Custom death message
 })
 
 
