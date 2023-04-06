@@ -34,7 +34,7 @@ local entityTable = Spawner.createEntity({
             Shake = true,
             Sound1 = {
                 3359047385, -- SoundId
-                { Volume = 0.5, PlaybackSpeed = 0.5 }, -- Sound properties
+                { Volume = 0.5 }, -- Sound properties
             },
             Sound2 = {
                 3359047385, -- SoundId
