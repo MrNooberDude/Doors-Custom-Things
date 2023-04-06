@@ -1,5 +1,6 @@
 local Spawner = loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Utilities/main/Doors%20Entity%20Spawner/Source.lua"))()
 
+
 -- Create entity
 local entityTable = Spawner.createEntity({
     CustomName = "Barrage", -- Custom name of your entity
