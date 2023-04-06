@@ -7,7 +7,7 @@ local Spawner = loadstring(game:HttpGet("https://raw.githubusercontent.com/Regul
 local entityTable = Spawner.createEntity({
     CustomName = "Barrage", -- Custom name of your entity
     Model = "https://github.com/MrNooberDude/Doors-Custom-Things/blob/main/Custom%20Entities/Barrage.rbxm?raw=true", -- Can be GitHub file or rbxassetid
-    Speed = 125, -- Percentage, 100 = default Rush speed
+    Speed = 150, -- Percentage, 100 = default Rush speed
     DelayTime = 0, -- Time before starting cycles (seconds)
     HeightOffset = 0,
     CanKill = true,
