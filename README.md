@@ -1,6 +1,7 @@
 # Doors Custom Things
 ## Credit
-Credits to [Vynixu](https://github.com/RegularVynixu/) for all of the base doors mods and UI library because I'm relatively new to Lua so thanks to them :D
+Credits to [Vynixu](https://github.com/RegularVynixu/) for all of the base doors mods, original entity spawner and UI library because I'm relatively new to Lua so thanks to them :D
+Credits to [Noonie](https://github.com/Noonie1/) for the modified spawner script :D
 
 ## About
 So, I see you've stumbled upon this repo. This is just a bunch of goofy scripts I made for the Roblox game Doors in one simple UI. This requires an executor to use, so go search up a decent executor if you need one (anything but JJSploit should suffice)
