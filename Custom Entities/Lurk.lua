@@ -1,11 +1,13 @@
 local Spawner = loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Utilities/main/Doors%20Entity%20Spawner/Source.lua"))()
 
+--9117118928
+--9112775175
 
 -- Create entity
 local entityTable = Spawner.createEntity({
     CustomName = "Lurk", -- Custom name of your entity
     Model = "https://github.com/MrNooberDude/Doors-Custom-Things/blob/main/Custom%20Entities/Lurk.rbxm?raw=true", -- Can be GitHub file or rbxassetid
-    Speed = 20, -- Percentage, 100 = default Rush speed
+    Speed = 50, -- Percentage, 100 = default Rush speed
     DelayTime = 5, -- Time before starting cycles (seconds)
     HeightOffset = 0,
     CanKill = true,
