@@ -1,5 +1,5 @@
 # Doors Custom Things
-##Credit
+## Credit
 Credits to [Vynixu](https://github.com/RegularVynixu/) for all of the base doors mods and UI library because I'm relatively new to Lua so thanks to them :D
 
 ## About
