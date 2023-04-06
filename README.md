@@ -8,7 +8,7 @@ So, I see you've stumbled upon this repo. This is just a bunch of goofy scripts 
 I've wanted to make scripts for doors for a while now, and so hopefully this works as an alternative to stuff like other entity spawners or something and provides a good bit of entertainment. Who knows? Maybe I could make the 47th hardcore mode script if I research enough.
 
 # How to Use
-So how would one use this hodgepodge of random stuff? Easy. Just copy this script right here and you should be good once you execute it! **You have to be in a game for it to work correctly.**
+So how would one use this hodgepodge of random stuff? Easy. Just copy this script right here and you should be good once you execute it! **You have to be in a game for it to work correctly.**  
 `loadstring(game:HttpGet(("https://raw.githubusercontent.com/MrNooberDude/Doors-Custom-Things/main/mainScript.lua"),true))()`
 
 **If you want to see and steal the very few bits of unique code, then go for it!** I don't care really that much about a few kilobytes of data anyway considering how annoying it is when I see something interesting in a script and then can't see how it works (because I want to learn how to do it), so maybe this will be a bit nice for people like me.
