@@ -15,9 +15,9 @@ So how would one use this hodgepodge of random stuff? Easy. Just copy this scrip
 
 # FAQ (probably)
 
-## Do I need a specific executor? (e.g. Synapse, Krnl...)
+## Do I need a specific executor? (e.g. Synapse, Electron...)
 **Short Answer:** You shouldn't worry about compatibility.  
-**Long Answer:** Unless you are using a pretty low level exploit, everything should go as planned. So stuff like Synapse X, Scriptware, KRNL, Fluxus, they all should work fine.
+**Long Answer:** Unless you are using a pretty low level exploit, everything should go as planned. So stuff like Synapse X, Scriptware, Electron, Fluxus, they all should work fine.
 
 ## Will I get banned for using this?
 **Short Answer:** If you're using an alt, you shouldn't really worry.  
